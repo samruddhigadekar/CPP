@@ -34,8 +34,8 @@ int main()
 	product ob,ob1,ob2;
 	ob.accept();
 	ob1.accept();
-//	ob2.accept();
+	ob2.accept();
 	ob.display();
 	ob1.display();
-//	ob2.display();
+	ob2.display();
 }
